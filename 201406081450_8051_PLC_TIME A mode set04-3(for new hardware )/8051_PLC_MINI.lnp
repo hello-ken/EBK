@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "8051_PLC_MINI" 
+RAMSIZE(256) 
